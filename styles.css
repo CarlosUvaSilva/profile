@@ -90,6 +90,7 @@ tr {
 #movies td {
     padding: 10px;
 }
+
 #sidebar {
   background-color: #6B7ED2;
   position: fixed;
@@ -99,6 +100,7 @@ tr {
   width: 150px;
   text-align: center;
 }
+
 #sidebar {
   position: fixed;
   width: 300px;
