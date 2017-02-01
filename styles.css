@@ -92,7 +92,7 @@ tr {
 }
 
 #sidebar {
-  background-color: #6B7ED2;
+  background-color: #204565;
   position: fixed;
   left: 0px;
   top: 0px;
@@ -101,13 +101,6 @@ tr {
   text-align: center;
 }
 
-#sidebar {
-  position: fixed;
-  width: 300px;
-  left: 0;
-  top: 0;
-  bottom: 0;
-}
 #page-content {
   margin-left: 150px;
 }
@@ -122,7 +115,7 @@ td, th {
 }
 
 .container {
-  width: 500px;   /* Set width */
+  max-width: 90%;   /* Set width */
   margin: 0 auto; /* Automatically set left/right margins */
 }
 
