@@ -91,7 +91,7 @@ tr {
     padding: 10px;
 }
 #sidebar {
-  background-color: #4B7497;
+  background-color: #6B7ED2;
   position: fixed;
   left: 0px;
   top: 0px;
@@ -99,7 +99,13 @@ tr {
   width: 150px;
   text-align: center;
 }
-
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
 #page-content {
   margin-left: 150px;
 }
