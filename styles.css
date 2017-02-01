@@ -90,16 +90,18 @@ tr {
 #movies td {
     padding: 10px;
 }
-
 #sidebar {
+  background-color: #4B7497;
   position: fixed;
-  width: 300px;
-  left: 0;
-  top: 0;
-  bottom: 0;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 150px;
+  text-align: center;
 }
+
 #page-content {
-  margin-left: 300px;
+  margin-left: 150px;
 }
 
 td, th {
